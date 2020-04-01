@@ -93,17 +93,9 @@ a > img {
 	flex-wrap: wrap;
 }
 
-#fun-facts {
-	text-align: center;
-}
-
-#fun-facts > h5 {
-	margin-left: 10%;
-	margin-right: 10%;
-}
-
-#fun-facts > h1 {
-	border-bottom: 1px solid white;
+#four {
+	background-color: gray;
+	padding-bottom: 50px;
 }
 
 #locations {
