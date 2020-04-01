@@ -95,6 +95,7 @@ a > img {
 
 #four {
 	background-color: gray;
+	border: 1px solid red;
 	padding-bottom: 50px;
 }
 
