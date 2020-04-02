@@ -85,6 +85,14 @@ a > img {
 	margin-right: 5%;
 }
 
+@media screen and (max-width: 750px) {
+	.social-icons {
+		margin-top: 25px;
+	}
+}
+
+
+
 .social-icons:hover {
 	box-shadow: 0 0 1rem 1px white;
 	cursor: pointer;
